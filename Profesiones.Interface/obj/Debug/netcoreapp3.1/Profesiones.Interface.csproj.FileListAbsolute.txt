@@ -1,0 +1,17 @@
+C:\Users\venom\source\repos\Profesiones\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.csprojAssemblyReference.cache
+C:\Users\venom\source\repos\Profesiones\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.AssemblyInfoInputs.cache
+C:\Users\venom\source\repos\Profesiones\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.AssemblyInfo.cs
+C:\Users\venom\source\repos\Profesiones\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.csproj.CoreCompileInputs.cache
+C:\Users\venom\source\repos\Profesiones\Profesiones.Interface\bin\Debug\netcoreapp3.1\Profesiones.Interface.deps.json
+C:\Users\venom\source\repos\Profesiones\Profesiones.Interface\bin\Debug\netcoreapp3.1\Profesiones.Interface.dll
+C:\Users\venom\source\repos\Profesiones\Profesiones.Interface\bin\Debug\netcoreapp3.1\Profesiones.Interface.pdb
+C:\Users\venom\source\repos\Profesiones\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.dll
+C:\Users\venom\source\repos\Profesiones\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.pdb
+C:\Users\droue\Desktop\Profesiones\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.AssemblyInfoInputs.cache
+C:\Users\droue\Desktop\Profesiones\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.AssemblyInfo.cs
+C:\Users\droue\Desktop\Profesiones\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.csproj.CoreCompileInputs.cache
+C:\Users\droue\Desktop\Profesiones\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.dll
+C:\Users\droue\Desktop\Profesiones\Profesiones.Interface\obj\Debug\netcoreapp3.1\Profesiones.Interface.pdb
+C:\Users\droue\Desktop\Profesiones\Profesiones.Interface\bin\Debug\netcoreapp3.1\Profesiones.Interface.deps.json
+C:\Users\droue\Desktop\Profesiones\Profesiones.Interface\bin\Debug\netcoreapp3.1\Profesiones.Interface.dll
+C:\Users\droue\Desktop\Profesiones\Profesiones.Interface\bin\Debug\netcoreapp3.1\Profesiones.Interface.pdb

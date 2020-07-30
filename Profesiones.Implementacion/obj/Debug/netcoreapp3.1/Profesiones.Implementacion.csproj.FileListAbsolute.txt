@@ -1,0 +1,12 @@
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\bin\Debug\netcoreapp3.1\Profesiones.Implementacion.deps.json
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\bin\Debug\netcoreapp3.1\Profesiones.Implementacion.dll
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\bin\Debug\netcoreapp3.1\Profesiones.Implementacion.pdb
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\bin\Debug\netcoreapp3.1\Profesiones.Interface.dll
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\bin\Debug\netcoreapp3.1\Profesiones.Interface.pdb
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\obj\Debug\netcoreapp3.1\Profesiones.Implementacion.csprojAssemblyReference.cache
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\obj\Debug\netcoreapp3.1\Profesiones.Implementacion.AssemblyInfoInputs.cache
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\obj\Debug\netcoreapp3.1\Profesiones.Implementacion.AssemblyInfo.cs
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\obj\Debug\netcoreapp3.1\Profesiones.Implementacion.csproj.CoreCompileInputs.cache
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\obj\Debug\netcoreapp3.1\Profesiones.Implementacion.csproj.CopyComplete
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\obj\Debug\netcoreapp3.1\Profesiones.Implementacion.dll
+C:\Users\droue\Desktop\Profesiones\Profesiones.Implementacion\obj\Debug\netcoreapp3.1\Profesiones.Implementacion.pdb

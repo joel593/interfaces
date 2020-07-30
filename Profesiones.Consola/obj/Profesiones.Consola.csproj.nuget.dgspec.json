@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Consola\\Profesiones.Consola.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.AccesoDatos\\Profesiones.AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.AccesoDatos\\Profesiones.AccesoDatos.csproj",
+        "projectName": "Profesiones.AccesoDatos",
+        "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.AccesoDatos\\Profesiones.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\droue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\droue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Entidad\\Profesiones.Entidad.csproj": {
+                "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Entidad\\Profesiones.Entidad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Consola\\Profesiones.Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Consola\\Profesiones.Consola.csproj",
+        "projectName": "Profesiones.Consola",
+        "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Consola\\Profesiones.Consola.csproj",
+        "packagesPath": "C:\\Users\\droue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Consola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\droue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.AccesoDatos\\Profesiones.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.AccesoDatos\\Profesiones.AccesoDatos.csproj"
+              },
+              "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Entidad\\Profesiones.Entidad.csproj": {
+                "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Entidad\\Profesiones.Entidad.csproj"
+              },
+              "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Implementacion\\Profesiones.Implementacion.csproj": {
+                "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Implementacion\\Profesiones.Implementacion.csproj"
+              },
+              "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Interface\\Profesiones.Interface.csproj": {
+                "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Interface\\Profesiones.Interface.csproj"
+              },
+              "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Negocio\\Profesiones.Negocio.csproj": {
+                "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Negocio\\Profesiones.Negocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Entidad\\Profesiones.Entidad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Entidad\\Profesiones.Entidad.csproj",
+        "projectName": "Profesiones.Entidad",
+        "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Entidad\\Profesiones.Entidad.csproj",
+        "packagesPath": "C:\\Users\\droue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Entidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\droue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Implementacion\\Profesiones.Implementacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Implementacion\\Profesiones.Implementacion.csproj",
+        "projectName": "Profesiones.Implementacion",
+        "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Implementacion\\Profesiones.Implementacion.csproj",
+        "packagesPath": "C:\\Users\\droue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Implementacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\droue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Entidad\\Profesiones.Entidad.csproj": {
+                "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Entidad\\Profesiones.Entidad.csproj"
+              },
+              "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Interface\\Profesiones.Interface.csproj": {
+                "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Interface\\Profesiones.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Interface\\Profesiones.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Interface\\Profesiones.Interface.csproj",
+        "projectName": "Profesiones.Interface",
+        "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Interface\\Profesiones.Interface.csproj",
+        "packagesPath": "C:\\Users\\droue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\droue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Negocio\\Profesiones.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Negocio\\Profesiones.Negocio.csproj",
+        "projectName": "Profesiones.Negocio",
+        "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Negocio\\Profesiones.Negocio.csproj",
+        "packagesPath": "C:\\Users\\droue\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\droue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Interface\\Profesiones.Interface.csproj": {
+                "projectPath": "C:\\Users\\droue\\Desktop\\Profesiones\\Profesiones.Interface\\Profesiones.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
